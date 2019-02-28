@@ -1,0 +1,56 @@
+Nome: Teste da linha
+Classe: Selecione a classe
+Sexo: Selecione o sexo
+VIT: 100
+FOR: 0
+STM: 0
+PES: 0
+CAR: 0
+ESP: 1
+PER: 0
+RES: 0
+INT: 0
+
+XP: 0
+XP Pra: 100
+VIT Atual:100
+APE: 100
+Karma: 70
+Nível: 1
+
+Seus debuffers: 
+Não está envenenado!
+Não está exausto!
+Não está ferido!
+Não está infectado!
+Não está paranóico!
+
+Skill points disponíveis: 10
+
+Bonus de Força: 0
+Bonus de Stamina: 0
+Bonus de Peso: 0
+Bonus de Carisma: 0
+Bonus de Percepção: 0
+Bonus de Resistência: 0
+Bonus de Inteligência: 0
+
+Suas habilidades: 
+Habilidade 1 - Bloqueada
+Habilidade 2 - Bloqueada
+Habilidade 3 - Bloqueada
+
+Slot 1: 
+Slot 2: 
+Slot 3: 
+Slot 4: 
+Slot 5: 
+Slot 6: 
+Slot 7: 
+Slot 8: 
+Slot 9: 
+Slot 10: 
+Slot Especial: 
+Slot da arma branca: 
+
+Anotações na ficha e perícias: Se eu quiser eu pulo 	 esta 	 merda 	 sim!

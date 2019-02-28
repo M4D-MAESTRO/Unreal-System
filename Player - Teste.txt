@@ -1,0 +1,57 @@
+Nome: Teste
+Classe: Fuzileiro Naval
+Sexo: Masculino
+VIT: 102
+FOR: 2
+STM: 1
+PES: 1
+CAR: 2
+ESP: 1
+PER: 2
+RES: 0
+INT: 0
+
+XP: 0
+XP Pra: 100
+VIT Atual:80
+APE: 100
+Karma: 70
+Nível: 1
+
+Seus debuffers: 
+Não está envenenado!
+Está exausto!
+Não está ferido!
+Não está infectado!
+Não está paranóico!
+
+Skill points disponíveis: 0
+
+Bonus de Força: 0
+Bonus de Stamina: 0
+Bonus de Peso: 0
+Bonus de Carisma: 0
+Bonus de Percepção: 3
+Bonus de Resistência: 0
+Bonus de Inteligência: 0
+
+Suas habilidades: 
+Habilidade 1 - Bloqueada
+Habilidade 2 - Bloqueada
+Habilidade 3 - Bloqueada
+
+Slot 1: a
+Slot 2: e
+Slot 3: i
+Slot 4: o
+Slot 5: u
+Slot 6: b
+Slot 7: c
+Slot 8: d
+Slot 9: 
+Slot 10: 
+Slot Especial: f
+Slot da arma branca: g
+
+Anotações na ficha e perícias: NÃO PULE LINHA! 
+ESCREVA ATÉ O FIM SEMPRE!
